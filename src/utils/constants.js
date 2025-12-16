@@ -6,7 +6,7 @@ export const PRIORITY_COLORS = {
 };
 
 export const COLUMNS = ['To-Do', 'In-Progress', 'Completed'];
-
+ 
 export const fixedValues = [
     {
         "id": 101,
