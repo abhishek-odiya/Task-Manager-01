@@ -9,30 +9,30 @@ export const COLUMNS = ['To-Do', 'In-Progress', 'Completed'];
 
 export const fixedValues = [
     {
-        id: 101,
-        title: "Design Homepage UI",
-        description: "Create wireframes and layout structure",
-        priority: "High",
-        status: "To-Do",
-        dueDate: "2025-02-12T09:00:00Z",
-        createdAt: "2025-01-25T14:10:00Z"
+        "id": 101,
+        "title": "Home work",
+        "description": "create To do list",
+        "priority": "High",
+        "status": "To-Do",
+        "dueDate": "2025-02-12T09:00:00Z",
+        "createdAt": "2025-01-25T14:10:00Z"
     },
     {
-        id: 102,
-        title: "Setup Database",
-        description: "Configure MongoDB and create schemas",
-        priority: "Medium",
-        status: "In-Progress",
-        dueDate: "2025-02-15T10:00:00Z",
-        createdAt: "2025-01-26T10:30:00Z"
+        "id": 102,
+        "title": "Reading",
+        "description": "1 page of atomic habit",
+        "priority": "Medium",
+        "status": "In-Progress",
+        "dueDate": "2025-02-15T10:00:00Z",
+        "createdAt": "2025-01-26T10:30:00Z"
     },
     {
-        id: 103,
-        title: "Write Documentation",
-        description: "Complete API documentation",
-        priority: "Low",
-        status: "Completed",
-        dueDate: "2025-02-10T15:00:00Z",
-        createdAt: "2025-01-24T09:00:00Z"
+        "id": 103,
+        "title": "Leet code",
+        "description": "Solve tree questions",
+        "priority": "Low",
+        "status": "Completed",
+        "dueDate": "2025-02-10T15:00:00Z",
+        "createdAt": "2025-01-24T09:00:00Z"
     }
 ];
